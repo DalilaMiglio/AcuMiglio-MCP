@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "acumiglio-mcp": {
+      "command": "node",
+      "args": [
+        "dist/src/server.js"
+      ],
+      "cwd": "C:/Users/OktO-Book/M5-MCP"
+    }
+  }
+}
